@@ -1,0 +1,4 @@
+name: joinmessagesupression
+version: '${version}'
+main: me.mqrshie.joinmessagesupression.Joinmessagesupression
+api-version: '1.20'
